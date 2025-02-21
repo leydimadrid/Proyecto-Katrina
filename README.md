@@ -9,19 +9,19 @@ Nuestro equipo está compuesto por apasionados del desarrollo y el diseño, comp
 
 ### 🚀 **Integrantes**  
 
-🔹 **[Andrea Gómez]** – *Rol*  
+🔹 **Andrea Gómez** – *Rol*  
    📌 Descripción breve de sus responsabilidades.  
 
-🔹 **[Maria Alejandra Infante Cely]** – *Rol*  
+🔹 **Maria Alejandra Infante Cely** – *Rol*  
    📌 Descripción breve de sus responsabilidades.  
 
-🔹 **[Juan Esteban Muñoz Ramirez]** – *Rol*  
+🔹 **Juan Esteban Muñoz Ramirez** – *Rol*  
    📌 Descripción breve de sus responsabilidades.  
 
-🔹 **[Carlos Adrian Cuesta Caldera]** – *Rol*  
+🔹 **Carlos Adrian Cuesta Caldera** – *Rol*  
    📌 Descripción breve de sus responsabilidades.  
 
-🔹 **[Leydi Johana Madrid Vásquez]** – *Rol*  
+🔹 **Leydi Johana Madrid Vásquez** – *Rol*  
    📌 Descripción breve de sus responsabilidades.  
    
 > *Cada uno de nosotros aporta su talento para construir una plataforma que inspire y eduque.*  
