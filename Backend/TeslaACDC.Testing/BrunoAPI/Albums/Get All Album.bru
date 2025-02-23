@@ -1,0 +1,15 @@
+meta {
+  name: Get All Album
+  type: http
+  seq: 1
+}
+
+get {
+  url: http://localhost:5046/api/album/getallalbum
+  body: none
+  auth: bearer
+}
+
+auth:bearer {
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiTGV5ZGkiLCJqdGkiOiI5NTJiNGVmZi00ZTA4LTQ4MTItYTE5Yy1jZTljOTQyNzhjYjAiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJBZG1pbiIsImV4cCI6MTc0MDY2OTA5MiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo1MDQ2IiwiYXVkIjoiaHR0cDovL2xvY2FsaG9zdDo1MDQ2In0.m5ZAPcW68yPaTTaI8F768GPZ5LARBTT9IiXMzJmwplg
+}

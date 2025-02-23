@@ -1,0 +1,15 @@
+meta {
+  name: Get Artist By Id
+  type: http
+  seq: 5
+}
+
+get {
+  url: http://localhost:5046/api/artist/getbyid?id=11
+  body: none
+  auth: none
+}
+
+params:query {
+  id: 11
+}

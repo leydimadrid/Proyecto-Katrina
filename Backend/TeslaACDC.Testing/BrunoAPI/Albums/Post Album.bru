@@ -1,0 +1,21 @@
+meta {
+  name: Post Album
+  type: http
+  seq: 2
+}
+
+post {
+  url: http://localhost:5046/api/album/createalbum
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "name": "Este es un Album nuevo",
+    "year": 1994,
+    "genre": 0,
+    "artistId": 1
+  
+  }
+}
