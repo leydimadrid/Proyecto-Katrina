@@ -30,7 +30,7 @@ Nuestro equipo está compuesto por apasionados del desarrollo y el diseño, comp
 
 🛠️ Tecnologías Utilizadas
 
-##Frontend 🖥️
+## Frontend 🖥️
 
 React ⚛️ - Biblioteca para interfaces de usuario interactivas.
 
@@ -38,7 +38,7 @@ Remix 🚀 - Framework para aplicaciones React centradas en el rendimiento y la 
 
 Tailwind CSS + DaisyUI 🎨 - Estilización moderna y eficiente con componentes accesibles.
 
-##Backend ⚙️
+## Backend ⚙️
 
 .NET 9 🔵 - Plataforma potente para el desarrollo backend.
 
