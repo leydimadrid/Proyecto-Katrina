@@ -52,20 +52,20 @@ Sigue estos pasos para ejecutar el proyecto localmente:
 
 1️⃣ Clona el repositorio
 
-```sh
+```
 git clone https://github.com/leydimadrid/PROYECTO-KATRINA.git
 cd nombre-del-repositorio ```
 
 2️⃣ Configura el Frontend
 
-```sh
+```
 cd frontend
 npm install
 npm run dev ```
 
 3️⃣ Configura el Backend
 
-```sh
+```
 cd backend
 dotnet restore
 dotnet run
