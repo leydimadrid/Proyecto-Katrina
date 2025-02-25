@@ -28,7 +28,7 @@ Nuestro equipo está compuesto por apasionados del desarrollo y el diseño, comp
 
 ---  
 
-### 🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 
 ## Frontend 🖥️
 
@@ -47,7 +47,7 @@ C# 💻 - Lenguaje de programación principal para la lógica de backend.
 MVC + Entity Framework 🏗️ - Arquitectura organizada y acceso eficiente a bases de datos.
 
 
-### 🚀 Instalación y Configuración
+## 🚀 Instalación y Configuración
 
 Sigue estos pasos para ejecutar el proyecto localmente:
 
@@ -74,7 +74,7 @@ dotnet restore
 dotnet run
 ```
 
-### 📌 Características Principales
+## 📌 Características Principales
 
 ✅ Aplicación full stack moderna y escalable.
 ✅ Diseño responsivo y atractivo con Tailwind + DaisyUI.
@@ -82,8 +82,10 @@ dotnet run
 ✅ Integración de Entity Framework para una gestión eficiente de bases de datos.
 ✅ Arquitectura basada en MVC para un código mantenible.
 
-🏆 Contribuciones
+
+## 🏆 Contribuciones
 
 Si quieres contribuir a este proyecto, siéntete libre de hacer un fork y abrir un pull request. ¡Toda ayuda es bienvenida! 💪
+
 
 ✨ ¡Gracias por visitar nuestro proyecto!  
