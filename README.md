@@ -33,14 +33,19 @@ Nuestro equipo está compuesto por apasionados del desarrollo y el diseño, comp
 ##Frontend 🖥️
 
 React ⚛️ - Biblioteca para interfaces de usuario interactivas.
+
 Remix 🚀 - Framework para aplicaciones React centradas en el rendimiento y la experiencia de usuario.
+
 Tailwind CSS + DaisyUI 🎨 - Estilización moderna y eficiente con componentes accesibles.
 
 ##Backend ⚙️
 
 .NET 9 🔵 - Plataforma potente para el desarrollo backend.
+
 C# 💻 - Lenguaje de programación principal para la lógica de backend.
+
 MVC + Entity Framework 🏗️ - Arquitectura organizada y acceso eficiente a bases de datos.
+
 
 🚀 Instalación y Configuración
 
