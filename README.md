@@ -26,7 +26,7 @@ Nuestro equipo está compuesto por apasionados del desarrollo y el diseño, comp
    
 > *Cada uno de nosotros aporta su talento para construir una plataforma que inspire y eduque.*  
 
----  
+
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -46,7 +46,7 @@ C# 💻 - Lenguaje de programación principal para la lógica de backend.
 
 MVC + Entity Framework 🏗️ - Arquitectura organizada y acceso eficiente a bases de datos.
 
----  
+
 
 ## 🚀 Instalación y Configuración
 
@@ -75,7 +75,7 @@ dotnet restore
 dotnet run
 ```
 
----  
+
 
 ## 📌 Características Principales
 
@@ -85,7 +85,7 @@ dotnet run
 ✅ Integración de Entity Framework para una gestión eficiente de bases de datos.
 ✅ Arquitectura basada en MVC para un código mantenible.
 
----  
+
 
 ## 🏆 Contribuciones
 
